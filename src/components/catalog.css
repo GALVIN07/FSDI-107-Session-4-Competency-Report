@@ -1,0 +1,17 @@
+
+
+.catalog{ 
+    padding: 10px 15px 20px 20px;
+    
+}
+
+
+.catalog .item{
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 15px;
+}
+
+.catalog .filters{
+    margin-left: 5px auto;
+}
